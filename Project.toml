@@ -3,6 +3,13 @@ uuid = "363e5ecb-0803-4ac0-baed-08dfa3a41905"
 authors = ["Tsung-Hsi Wu <okatsn@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+DataFrameTools = "2e886b56-b55e-403a-a2d0-ccbf75d993da"
+FileTools = "2c042965-b292-4a40-a4a9-3abf2d00bee5"
+HypertextTools = "4502ade7-0b84-4acc-96da-75e5ce1d0abd"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+Shorthands = "d0c9a04e-d1fd-4d35-a387-089b7121b945"
+
 [compat]
 julia = "1.6.4"
 
