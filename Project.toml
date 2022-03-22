@@ -1,7 +1,7 @@
 name = "AllTools"
 uuid = "363e5ecb-0803-4ac0-baed-08dfa3a41905"
 authors = ["Tsung-Hsi Wu <okatsn@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 DataFrameTools = "2e886b56-b55e-403a-a2d0-ccbf75d993da"
